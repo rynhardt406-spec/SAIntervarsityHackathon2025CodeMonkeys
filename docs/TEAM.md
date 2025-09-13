@@ -12,10 +12,9 @@ Code Monkeys
 ## 👥 Members
 | Name     | Role                | Institution           | Discord Handle | Email |
 |----------|---------------------|-----------------------| -------------------|-------------|
-| **Name 1**   | Backend Developer   | University of Cape Town | name1 | <email1@gmail.com> |
-| **Name 2**   | Frontend Developer  | University of the Witwatersrand | name2 | <email2@gmail.com> |
-| **Name 3**   | Designer            | University of Johannesburg | name3 | <email3@gmail.com> |
-| **Name 4**   | Q.A Tester          | University of the Western Cape | name4 | <email4@gmail.com> |
+| **Kai Fynn** | ML Engineer | University of Pretoria | kai.fynn | <kaifynn9@gmail.com> |
+| **Rynhardt Gouws** | ML Engineer | University of the Pretoria | logic_za | <rynhardt406@gmail.com> |
+| **Colin Harwood**   | ML Engineer | University of Pretoria | colin587 | <colinharwood0@gmail.com> |
 
 ## 🏫 Institution
 ``` c
@@ -24,4 +23,5 @@ The University of Pretoria
 
 ## 📧 Other Contact Info
 - GitHub Repo: <https://github.com/Colin-Harwood/SAIntervarsityHackathon2025CodeMonkeys>
-- Other Info (if available): Colin Harwood: https://www.linkedin.com/in/colin-harwood/.
+- Other Info (if available): Colin Harwood: https://www.linkedin.com/in/colin-harwood/, 
+Rynhardt Gouws: https://www.linkedin.com/in/rynhardt-gouws-296873353/, Kai Fynn: 
