@@ -24,4 +24,4 @@ The University of Pretoria
 ## 📧 Other Contact Info
 - GitHub Repo: <https://github.com/Colin-Harwood/SAIntervarsityHackathon2025CodeMonkeys>
 - Other Info (if available): Colin Harwood: https://www.linkedin.com/in/colin-harwood/, 
-Rynhardt Gouws: https://www.linkedin.com/in/rynhardt-gouws-296873353/, Kai Fynn: 
+Rynhardt Gouws: https://www.linkedin.com/in/rynhardt-gouws-296873353/, Kai Fynn: https://www.linkedin.com/in/kai-fynn-94b629384/
