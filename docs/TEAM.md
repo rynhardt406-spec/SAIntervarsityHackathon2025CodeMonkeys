@@ -6,7 +6,7 @@
 
 ## ⚒️ Team Name
 ``` c
-// TODO: Fill-in the name of your team.
+Code Monkeys
 ```
 
 ## 👥 Members
@@ -19,10 +19,9 @@
 
 ## 🏫 Institution
 ``` c
-// TODO: Fill-in the name of the institution your
-// team is competing under.
+The University of Pretoria
 ```
 
 ## 📧 Other Contact Info
-- GitHub Repo: <https://github.com/user-name/repo-name>
-- Other Info (if available): LinkedIn, Website, etc.
+- GitHub Repo: <https://github.com/Colin-Harwood/SAIntervarsityHackathon2025CodeMonkeys>
+- Other Info (if available): Colin Harwood: https://www.linkedin.com/in/colin-harwood/.
